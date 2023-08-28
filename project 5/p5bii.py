@@ -44,12 +44,12 @@ while True:
 scope = 'playlist-modify-public'
 
 # this is the user (my) Spotify username 
-username = 'femaleyalenerd'
+username = 'USERNAME'
 
 # these two client variables are unique identifers assigned to my application 
 # by the Spotify for Developers platform 
-client_id = 'ccea2b9f9ec943e6a044fc64243e1503'
-client_secret = 'e5b57f5e91a2496c89881f1b2b749e11'
+client_id = 'CLIENT_ID'
+client_secret = 'CLIENT_SECRET'
 
 # this uri is what Spotify uses to redirect the user after they've authorized
 # my application
