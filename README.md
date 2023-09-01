@@ -1,5 +1,5 @@
 # CSCI-3038
-This repository includes all the assignments I completed in CSCI 3038 - Computer Languages: Python
+This repository includes all the assignments I completed in CSCI 3038 - Computer Languages: Python (Summer 2023).
 
 The following directories include:
 
